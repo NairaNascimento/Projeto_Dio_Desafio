@@ -2,7 +2,7 @@ Meu projeto Dio Desafio.
 
 Bem-Vindo ao meu repositório!
 
-Este projeto foi criado para usar como uma ferramentas de simulação de investimentos em Excel.
+Este projeto foi criado para usar como uma ferramenta de simulação de investimentos em Excel.
 
 ## Sobre
 Aplicar cálculos financeiros como rendimento mensal e cálculo de dividendos.
